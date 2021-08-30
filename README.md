@@ -1,3 +1,6 @@
-JS Automation project of Uliana Pimenova
+# JS Automation project of Uliana Pimenova
 
-# To run tests: npx wdio
+to run tests: 
+```
+npx wdio
+```
