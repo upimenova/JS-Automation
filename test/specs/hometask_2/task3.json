@@ -1,0 +1,30 @@
+{
+    "flag": "truefalse",
+    "myPromises": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+    ],
+    "element": {
+        "name": "John", 
+        "age": 30, 
+        "car": null
+    },
+    "secretBase": "Super tower",
+    "active": true,
+    "screenshot": null,
+    "elementText": "Create a Function that will take a path to the .json file will read it and confirm that that json is satisfied to conditions",
+    "allElementsText": "doesn't satisfy condition",
+    "counter": 5,
+    "config": "Common",
+    "const": "FiRst",
+    "parameters": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes",
+        "Beauty is how you feel inside, and it reflects in your eyes. It is not something physical.",
+        "Art is the imposing of a pattern on experience, and our aesthetic enjoyment is recognition of the pattern.",
+        "Girls have always been told that their value is tied to their appearance; their accomplishments are always magnified if they're pretty and diminished if they're not."
+    ],
+    "description": "Superwoman"
+  }
