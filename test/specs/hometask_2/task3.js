@@ -2,7 +2,7 @@ const fs = require('fs');
 
 fs.readFile('/etc/passwd', (err, data) => { 
     if (err) throw err; 
-    const objectToString = JSON.stringify();
+        const objectToString = JSON.stringify();
     if (typeof data.flag !== 'boolean') {
         fs.writeFile('errors.txt', 'flag value: ' + data.flag + ' is not a boolean value', function (err) {
             if (err) throw err;
